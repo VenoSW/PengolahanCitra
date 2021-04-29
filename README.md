@@ -1,5 +1,5 @@
 # GUI VENO MATLAB | Pengolahan Citra 
-Silahkan dilihat codingan difile `.fig` menggunakan Software MATLAB
+Silahkan dilihat codingan difile `.m` menggunakan Software MATLAB
 ```
 Veno Setyoaji Wiratama
 311910363
